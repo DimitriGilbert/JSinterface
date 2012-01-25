@@ -1,2 +1,11 @@
 0.1 :
 	premiere release
+	
+0.2 : 
+	mise en place de plusieurs modules
+		IS
+		docel
+		docmap
+		timer /!\
+		animation /!\
+	créateur de fichier compréssé, via JSmin
